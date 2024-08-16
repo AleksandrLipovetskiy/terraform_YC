@@ -9,4 +9,6 @@
 Скрипт при помощи terraform разворачивает в облаке виртуальную машину, после чего проверяет ее доступность.
 После этого, когда машина доступна, передает управление ansible, который разворачивает на виртуальной машине сервер nginx, заливает конфигурационные файлы nginx и веб-ресурса, после чего проверяет его доступность.
 
-[Вот скрин стартовой страницы](https://github.com/AleksandrLipovetskiy/terraform_YC/blob/main/scrin_index.png)
+![Скрин стартовой страницы][def]
+
+[def]: https://github.com/AleksandrLipovetskiy/terraform_YC/blob/main/scrin_index.png
